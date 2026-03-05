@@ -54,9 +54,8 @@ For visualization, the following techniques were used:
 
 👤 **Author**  
 Aspiring Data Analyst
-
-LinkedIn: https://www.linkedin.com/in/dhanyamaryboban
-Email: dhanyamb0898@gmail.com
-GitHub: https://github.com/DhanyaMaryBoban
+- LinkedIn: https://www.linkedin.com/in/dhanyamaryboban
+- Email: dhanyamb0898@gmail.com
+- GitHub: https://github.com/DhanyaMaryBoban
 
 
