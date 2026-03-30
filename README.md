@@ -34,7 +34,7 @@ For visualization, the following techniques were used:
 
 🔍 **Findings**  
 - **Orders by Country:** Canada, France, Germany, Mexico, and USA each recorded **140 orders** → equal distribution across regions.  
-- **Sales by Country:** USA had the **highest sales** ; Mexico had the **lowest sales**.  
+- **Sales by Country:** France had the **highest sales** ; USA had the **lowest sales**.  
 - **Discount Distribution:** High discounts accounted for **57.76%**, medium for **32.62%**, and low for **9.62%** → majority of discounts fall into the high band, impacting profitability.  
 - **Sales Trend (2013–2014):** Peak sales in **October 2014**, drop in November, recovery in December → seasonal fluctuations highlight opportunities for targeted campaigns.  
 - **Profit Margin by Segment:**  
